@@ -1,0 +1,9 @@
+*.Rproj
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+rsconnect/
+files/
+ear_data_download_2.rmd
+*.html
