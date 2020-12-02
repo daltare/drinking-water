@@ -53,7 +53,7 @@ unlink(temp_file)
 
 ## Make a Plot
 
-Make a plot of WP (Water Produced) monthly totals for one PWSID for the given year. This is just an example, and the specific PWSID shown here was chosen at random from among those with data for all 12 months, so the plot is not intended to highlight anything unusual about this PWSID's data.
+Make a plot of WP (Water Produced) monthly totals for one PWSID for the given year. This is just an example, and the specific PWSID shown here was chosen at random from among those with data for all 12 months, so the plot is not intended to highlight anything unique about this PWSID's data.
 
 ```{r plot}
 library(stringr)
